@@ -1,0 +1,20 @@
+{
+  "name": "claudiusnascimento/breadcrumb",
+  "description": "Display the Bootstrap breadcrumb in your app/site",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "authors": [
+    {
+      "name": "Claudius Nascimento",
+      "email": "cau@claudiusnascimento.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ClaudiusNascimento\\Breadcrumb\\": "src/"
+    }
+  }
+}
